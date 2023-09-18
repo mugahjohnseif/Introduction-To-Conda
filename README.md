@@ -1,11 +1,11 @@
 # Introduction-To-Conda
-To create environment name qc, command _conda create -n qc_
+To create environment name qc, command `conda create -n qc`
 
-To activate this environment, command _conda activate qc_
+To activate this environment, command `conda activate qc`
 
-To install packages in this environment command conda install and the name of the environment e.g _conda install multiqc_, _conda install fastqc_
+To install packages in this environment command conda install and the name of the environment e.g `conda install multiqc`, `conda install fastqc`
 
-To view files in the environment, command _conda list_
+To view files in the environment, command `conda list`
 
 ## List of environment within fastqc and multiqc
 
